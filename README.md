@@ -5,3 +5,5 @@ This project was conducted for a university assignment for a module known as Sys
 
 Please find the attached document, which details how to set-up the server and client enviornments and 
 the user controls. This document also features how the streaming service has been tested for efficiency.
+
+https://github.com/jackmcguire1/Multi-Threaded-Audio-Streaming-Server-/blob/master/READ%20ME.docx
